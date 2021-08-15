@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Python**
 
-- 📫 How to reach me **mukeshbahuguna0000@gmail.com**
+- 📫 How to reach me **https://www.linkedin.com/in/mukeshbahuguna/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
