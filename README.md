@@ -10,7 +10,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mukeshbahuguna" alt="mukeshbahuguna" /></a> </p>
 
-- 🔭 I’m currently working on **Django**
+- 🔭 I’m currently working on **MERN**
 
 - 🌱 I’m currently learning **Javascript**
 
