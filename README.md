@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **JavaFullStack**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 💬 Ask me about **Python**
 
