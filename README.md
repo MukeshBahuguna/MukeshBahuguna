@@ -2,8 +2,8 @@
  -->
 <!--
 **MukeshBahuguna/MukeshBahuguna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-![Black Minimal Motivation Quote LinkedIn Banner](https://github.com/MukeshBahuguna/MukeshBahuguna/assets/52329826/4664cf7f-3903-4413-a555-48335138389f)
+![Black Minimal Motivation Quote LinkedIn Banner](https://github.com/MukeshBahuguna/MukeshBahuguna/assets/52329826/4664cf7f-3903-4413-a555-48335138389f)-->
+
 <img src="https://github.com/MukeshBahuguna/MukeshBahuguna/assets/52329826/4664cf7f-3903-4413-a555-48335138389f" alt="Hi 👋, I'm Mukesh Bahuguna">
 <h3 align="center">Software Developer</h3>
 
