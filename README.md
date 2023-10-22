@@ -3,8 +3,8 @@
 <!--
 **MukeshBahuguna/MukeshBahuguna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<img src="http://www.canva.com/design/DAFx9bdnkvY/TJdhZ0k9cLj0nLMSLmu2Gg/view?utm_content=DAFx9bdnkvY&utm_campaign=designshare&utm_medium=link&utm_source=editor" alt="Hi 👋, I'm Mukesh Bahuguna">
-<img src="http://userimages.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt="my banner">
+<img src="https://www.canva.com/design/DAFx9bdnkvY/TJdhZ0k9cLj0nLMSLmu2Gg/view?utm_content=DAFx9bdnkvY&utm_campaign=designshare&utm_medium=link&utm_source=editor" alt="Hi 👋, I'm Mukesh Bahuguna">
+<img src="https://userimages.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt="my banner">
 <h3 align="center">Software Developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mukeshbahuguna&label=Profile%20views&color=0e75b6&style=flat" alt="mukeshbahuguna" /> </p>
