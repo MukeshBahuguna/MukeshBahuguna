@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Spring Boot**
 
-- 💬 Ask me about **Python**
+- 💬 Ask me about **JAVA , REACT**
 
 - 📫 How to reach me **https://www.linkedin.com/in/mukeshbahuguna/**
 
