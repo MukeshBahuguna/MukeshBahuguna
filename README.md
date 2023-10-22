@@ -31,5 +31,5 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mukeshbahuguna&show_icons=true&locale=en&layout=compact" alt="mukeshbahuguna" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mukeshbahuguna&show_icons=true&locale=en" alt="mukeshbahuguna" /></p>
-
+<!-- <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mukeshbahuguna&show_icons=true&locale=en" alt="mukeshbahuguna" /></p>
+-->
