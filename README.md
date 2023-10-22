@@ -3,7 +3,7 @@
 <!--
 **MukeshBahuguna/MukeshBahuguna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<h1 align="center">Hi 👋, I'm Mukesh Bahuguna</h1>
+<h1 align="center"><img src="https://www.canva.com/design/DAFx9bdnkvY/TJdhZ0k9cLj0nLMSLmu2Gg/view?utm_content=DAFx9bdnkvY&utm_campaign=designshare&utm_medium=link&utm_source=editor" alt="Hi 👋, I'm Mukesh Bahuguna"></h1>
 <h3 align="center">Software Developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mukeshbahuguna&label=Profile%20views&color=0e75b6&style=flat" alt="mukeshbahuguna" /> </p>
