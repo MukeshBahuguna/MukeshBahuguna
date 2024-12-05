@@ -14,11 +14,11 @@
 
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mukeshbahuguna" alt="mukeshbahuguna" /></a> </p> -->
 
-- 🔭 I’m currently working on **JavaFullStack**
+- 🔭 I’m currently working on **NEXT-JS**
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **NEXT-JS STACK**
 
-- 💬 Ask me about **JAVA , REACT**
+- 💬 Ask me about **JS , REACT**
 
 - 📫 How to reach me **https://www.linkedin.com/in/mukeshbahuguna/**
 
